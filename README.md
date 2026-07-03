@@ -1,2 +1,17 @@
-# FUTURE_ML_03
-Machine Learning-based Resume Screening System using NLP, TF-IDF, and Cosine Similarity to analyze resumes, rank candidates by job-role match, and identify skill gaps.
+# Resume Screening System using Machine Learning
+
+This project implements a Resume Screening and Candidate Ranking System using Machine Learning and NLP.
+
+## Features
+- Resume text preprocessing
+- Job description matching
+- TF-IDF vectorization
+- Cosine similarity scoring
+- Candidate ranking
+- Skill gap analysis
+
+## Technologies Used
+- Python
+- Pandas
+- Scikit-learn
+- Matplotlib
