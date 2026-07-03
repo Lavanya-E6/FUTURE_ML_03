@@ -15,3 +15,9 @@ This project implements a Resume Screening and Candidate Ranking System using Ma
 - Pandas
 - Scikit-learn
 - Matplotlib
+
+## Output
+The system provides:
+Candidate ranking based on role fit
+Match percentage
+Missing skills analys
